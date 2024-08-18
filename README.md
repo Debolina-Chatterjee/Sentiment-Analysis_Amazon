@@ -15,7 +15,7 @@ README.md: Overview of the project.
 
 
 🚀 Setup & Usage
-Clone the Repo: https://github.com/Debolina10Chatterjee/PRODIGY_DS_04.git
+Clone the Repo: https://github.com/Debolina-Chatterjee/Sentiment-Analysis_Amazon.git
 Run the Notebook:
 Open the Colab notebook.
 Execute cells to perform sentiment analysis and generate visualizations.
